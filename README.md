@@ -1,2 +1,2 @@
 # animal-game
- WST3 Partner Activity
+ WST2 Partner Activity
